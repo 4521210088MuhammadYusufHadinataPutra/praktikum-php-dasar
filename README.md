@@ -13,15 +13,16 @@ menampilkannya dalam bentuk tabel.
  
 **Tampilan Awal Form** 
 *(Letakkan screenshot tampilan form kosong di sini)* 
-![Tampilan Form](<img width="1355" height="757" alt="Screenshot 2025-10-03 141800" src="https://github.com/user-attachments/assets/05890715-7ab7-4a2e-80a3-78b59220a042" />
+!(<img width="1355" height="757" alt="Screenshot 2025-10-03 141800" src="https://github.com/user-attachments/assets/05890715-7ab7-4a2e-80a3-78b59220a042" />
 ) 
  
 **Tampilan Setelah Pendaftaran Berhasil** 
 *(Letakkan screenshot tampilan setelah berhasil submit data di sini)* 
-![Tampilan Sukses]( <img width="1362" height="762" alt="Screenshot 2025-10-03 141853" src="https://github.com/user-attachments/assets/3ad3ec2f-4d53-4083-a8af-963840a9c8da" />
+!( <img width="1362" height="762" alt="Screenshot 2025-10-03 141853" src="https://github.com/user-attachments/assets/3ad3ec2f-4d53-4083-a8af-963840a9c8da" />
 ) 
  
 **Contoh Pesan Error Validasi** 
 *(Letakkan screenshot tampilan saat ada error validasi di sini)* 
-![Tampilan Error]( <img width="1357" height="762" alt="Screenshot 2025-10-03 142017" src="https://github.com/user-attachments/assets/7b40194c-af70-4469-9d05-58770dbb70fc" />
+!( <img width="1357" height="762" alt="Screenshot 2025-10-03 142017" src="https://github.com/user-attachments/assets/7b40194c-af70-4469-9d05-58770dbb70fc" />
 )
+
